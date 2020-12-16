@@ -1,0 +1,25 @@
+body{
+font-family: oblique,Arial, Helvetica, sans-serif;
+background-color: aqua;
+}
+#firstHeading{
+    text-align: center;
+    text-decoration: overline;
+
+
+}
+#border{
+    border: 2px dotted black;
+    border-radius: 10px;
+}
+#leftTab{
+    border: 1px dashed black;
+    padding: 5px;
+}
+#decoration{
+
+    text-decoration: underline;
+}
+#education{
+    border: 2px black dotted;
+}
